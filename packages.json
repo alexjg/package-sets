@@ -114,6 +114,14 @@
     "repo": "https://github.com/purescript/purescript-distributive.git",
     "version": "v4.0.0"
   },
+  "eff": {
+    "dependencies": [
+      "monoid",
+      "prelude"
+    ],
+    "repo": "git://github.com/purescript/purescript-eff.git",
+    "version": "v3.2.1"
+  },
   "effect": {
     "dependencies": [
       "prelude"

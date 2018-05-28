@@ -1462,7 +1462,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-react.git",
-    "version": "v4.4.0"
+    "version": "v5.1.0"
   },
   "react-dom": {
     "dependencies": [

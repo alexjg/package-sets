@@ -118,7 +118,7 @@
     "dependencies": [
       "prelude"
     ],
-    "repo": "git://github.com/purescript/purescript-effect.git",
+    "repo": "https://github.com/purescript/purescript-effect.git",
     "version": "v2.0.0"
   },
   "either": {

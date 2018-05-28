@@ -313,6 +313,17 @@
     "repo": "https://github.com/garyb/purescript-debug.git",
     "version": "v3.0.0"
   },
+  "dispatcher-react": {
+    "dependencies": [
+      "aff",
+      "contravariant",
+      "eff",
+      "react",
+      "type-equality"
+    ],
+    "repo": "git://github.com/doolse/purescript-dispatcher-react.git",
+    "version": "v3.1.0"
+  },
   "distributions": {
     "dependencies": [
       "lists"
